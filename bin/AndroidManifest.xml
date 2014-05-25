@@ -26,6 +26,10 @@
             android:name="com.example.loquelequierasponer.MainActivity2"
             android:label="@string/title_activity_main_activity2" >
         </activity>
+        <activity
+            android:name="com.example.loquelequierasponer.Victor"
+            android:label="@string/title_activity_victor" >
+        </activity>
     </application>
 
 </manifest>
